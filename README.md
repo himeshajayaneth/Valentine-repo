@@ -6,7 +6,12 @@
 <br>
 
 <!-- 💖 Animated Typing Text 💖 -->
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&weight=700&size=24&pause=1200&color=FF1493&center=true&vCenter=true&width=600&lines=Send+love+in+a+browser;No+app,+no+install,+just+pure+love;Made+for+someone+special)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&weight=700&size=24&pause=1200&color=FF1493&center=true&vCenter=true&width=650&lines=Valentine-repo+%F0%9F%92%9D;Beautiful+Valentine+%26+Birthday+cards;Crafted+with+love+in+HTML,+CSS+%26+JS)
+
+<br>
+
+<h1>🌸 Valentine-repo 🌸</h1>
+<h3><i>your little pink universe for love letters on the web</i></h3>
 
 💌 🌹 💕 💖
 
