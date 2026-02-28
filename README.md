@@ -1,12 +1,14 @@
 ﻿<div align="center">
 
 <!-- ✨ Animated Wave Header ✨ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=200&section=header&text=💝%20Valentine%20%26%20Birthday%20Cards%20💝&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Beautiful%20interactive%20web%20cards%20crafted%20with%20love&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=200&section=header&text=Valentine%20%26%20Birthday%20Cards&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Beautiful%20interactive%20web%20cards%20crafted%20with%20love&descAlignY=55&descSize=16" width="100%"/>
 
 <br>
 
 <!-- 💖 Animated Typing Text 💖 -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=700&size=24&pause=1000&color=FF1493&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Send+love+in+a+browser+🌹;No+app%2C+no+install%2C+just+pure+love+💕;Made+with+heart+for+someone+special+💖" alt="Typing SVG" /></a>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&weight=700&size=24&pause=1200&color=FF1493&center=true&vCenter=true&width=600&lines=Send+love+in+a+browser;No+app,+no+install,+just+pure+love;Made+for+someone+special)
+
+💌 🌹 💕 💖
 
 <br><br>
 
