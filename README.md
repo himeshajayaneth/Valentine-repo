@@ -1,7 +1,6 @@
 ﻿<div align="center">
 
 <!-- ✨ Animated Wave Header ✨ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=200&section=header&text=Valentine%20%26%20Birthday%20Cards&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Beautiful%20interactive%20web%20cards%20crafted%20with%20love&descAlignY=55&descSize=16" width="100%"/>
 
 <br>
 
@@ -18,7 +17,7 @@
 <br><br>
 
 <!-- 💌 Animated Love GIF 💌 -->
-<img src="https://i.giphy.com/media/l0HlNQ03J5JxX2rGM/giphy.gif" width="150"/>
+<img src="https://i.giphy.com/media/3o7TKoWXm3okO1kgHC/giphy.gif" alt="Animated love GIF" width="150"/>
 
 <br><br>
 
@@ -97,7 +96,7 @@ A fun, interactive Valentine's Day card that makes saying no **impossible**! �
 
 ## 🎂✨ Birthday Card — Horizontal ✨🎂
 
-<img src="https://i.giphy.com/media/WRL7YgP42OKns6FMLr/giphy.gif" width="200"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="200"/>
 
 > 🎉 *11 pages of love, one swipe at a time.* 🤗💖
 
