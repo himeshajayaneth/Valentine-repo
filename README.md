@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
 
 <!-- ✨ Animated Wave Header ✨ -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=200&section=header&text=💝%20Valentine%20%26%20Birthday%20Cards%20💝&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Beautiful%20interactive%20web%20cards%20crafted%20with%20love&descAlignY=55&descSize=16" width="100%"/>
@@ -11,7 +11,7 @@
 <br><br>
 
 <!-- 💌 Animated Love GIF 💌 -->
-<img src="https://media.giphy.com/media/l0HlNQ03J5JxX2rGM/giphy.gif" width="150"/>
+<img src="https://i.giphy.com/media/l0HlNQ03J5JxX2rGM/giphy.gif" width="150"/>
 
 <br><br>
 
@@ -51,7 +51,7 @@
 
 ## 💘💌 Valentine Card 💌💘
 
-<img src="https://media.giphy.com/media/3o7TKoWXm3okO1kgHC/giphy.gif" width="200"/>
+<img src="https://i.giphy.com/media/3o7TKoWXm3okO1kgHC/giphy.gif" width="200"/>
 
 > ❤️ *"Will you be my Valentine?"* — but the **No** button won't let them say no. 😏💋
 
@@ -90,7 +90,7 @@ A fun, interactive Valentine's Day card that makes saying no **impossible**! �
 
 ## 🎂✨ Birthday Card — Horizontal ✨🎂
 
-<img src="https://media.giphy.com/media/WRL7YgP42OKns6FMLr/giphy.gif" width="200"/>
+<img src="https://i.giphy.com/media/WRL7YgP42OKns6FMLr/giphy.gif" width="200"/>
 
 > 🎉 *11 pages of love, one swipe at a time.* 🤗💖
 
@@ -158,7 +158,7 @@ A comprehensive, immersive birthday card split into **11 full-screen pages** �
 
 ## 🎂📜 Birthday Card — Vertical 📜🎂
 
-<img src="https://media.giphy.com/media/feio2yIUMtdqWjRiaF/giphy.gif" width="200"/>
+<img src="https://i.giphy.com/media/feio2yIUMtdqWjRiaF/giphy.gif" width="200"/>
 
 > 📜 *All the love, in one beautiful scroll.* 💫🌸
 
@@ -196,7 +196,7 @@ The same heartfelt content as the Horizontal card, delivered as a classic **sing
 
 ## 🚀💥 How To Use 💥🚀
 
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200"/>
+<img src="https://i.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200"/>
 
 </div>
 
@@ -279,7 +279,7 @@ const DATE_WE_MET  = new Date(2024, 0, 1); // 📅 ← Your special date (year, 
 
 ## 🐣🔍 Easter Egg 🔍🐣
 
-<img src="https://media.giphy.com/media/l0MYt5jPR6QX5APm0/giphy.gif" width="180"/>
+<img src="https://i.giphy.com/media/l0MYt5jPR6QX5APm0/giphy.gif" width="180"/>
 
 💡 On any Birthday Card page, type **`iloveyou`** on your keyboard...
 
@@ -305,7 +305,7 @@ Feel free to fork, customize, and send love to whoever deserves it! 💕💋💓
 
 <!-- 💖 Footer Section 💖 -->
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+<img src="https://i.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
 
 <br>
 
